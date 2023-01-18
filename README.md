@@ -12,7 +12,4 @@ Tudo bem contigo? Comigo tá indo conforme a vida vai, se precisar de coisa simp
   <br>
   <br>
   <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCNogueira&langs_count=6&theme=synthwave"></img>
-  <br>
-  <br>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=IgorCNogueira&repo=Cadastro-em-C&theme=synthwave">
 </div>
