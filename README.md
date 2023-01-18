@@ -4,10 +4,10 @@ Tudo bem contigo? Comigo tá indo conforme a vida vai, se precisar de coisa simp
 
 <div style="display: flex;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=IgorCNogueira&show_icons=true&theme=synthwave"></img>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorCNogueira&show_icons=true&theme=synthwave"></img>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=IgorCNogueira&theme=synthwave"></img>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=IgorCNogueira&theme=synthwave"></img>
   </a>
   <br>
   <br>
