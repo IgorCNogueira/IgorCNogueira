@@ -7,7 +7,7 @@ Tudo bem contigo? Comigo tá indo conforme a vida vai, se precisar de coisa simp
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IgorCNogueira&show_icons=true&theme=dark"></img>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/wakatime?username=IgorCNogueira&theme=dark&v=2"></img>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=IgorCNogueira&theme=dark&v=2"></img>
   </a>
   
   <br>
