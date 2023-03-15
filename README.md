@@ -6,9 +6,6 @@ GitHub status:
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=IgorCNogueira&show_icons=true&theme=dark"></img>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="220em" src="https://github-readme-stats.vercel.app/api/wakatime?username=IgorCNogueira&theme=dark&v=2"></img>
-  </a>
   
   <br>
   <br>
